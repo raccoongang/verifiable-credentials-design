@@ -13,7 +13,7 @@ workspace {
 
           credentialsService = softwareSystem "edX Credentials" "Open edX credentials service that stores all user completions (credentials)" {
             verifiedCerdentialsIssuer = container "Verified Credentials Issuer" "Issues verified credentials that can be synchronized with digital credentials wallets." "A part of edX Credentials"
-            VCIssuerMFE = container "VC Issuer MFE" "MFE for issuing verifiable credentials." "ReactJS"
+            VCIssuerMFE = container "VC Issuer MFE" "MFE for issuing verifiable credentials, is a part of existant MFE (credentials/profile)." "ReactJS"
 
 
               #  examProctoringiPlugin = container "Plugin for Exam proctoring provider" "Provides specific overrides for edx-proctoring module" "Python/JS"
@@ -57,14 +57,14 @@ workspace {
 
       # relationships between people and software systems
       # users
-      verifiedCerdentialsIssuer -> learner "Controls and notifies"
       siteAdmin -> verifiedCerdentialsIssuer "Watches recordings and streams, comments upon incidents"
-      learner -> verifiedCerdentialsIssuer "Watches recordings, reads incidents reports"
+      learner -> VCIssuerMFE "Requests digital credentials."
       verifier -> verifiedCerdentialsIssuer "Get Public Key for verification"
       # services
       verifiedCerdentialsIssuer -> digitalWallet "Sends VC"
+      digitalWallet -> verifiedCerdentialsIssuer "Requests VC"
       # verifiedCerdentialsIssuer -> credentialsService "Gets user data"
-      credentialsService -> edxPlatform "Sends completions data"
+      edxPlatform -> credentialsService "Sends completions data"
       # verifiedCerdentialsIssuer -> examEDXLMS "Monitors exam status and proctoring results"
       # verifiedCerdentialsIssuer -> email_system "Sends notification about incidents reports"
 
