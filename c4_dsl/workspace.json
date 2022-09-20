@@ -3,31 +3,38 @@
   "name" : "Name",
   "description" : "Description",
   "revision" : 0,
-  "lastModifiedDate" : "2022-08-26T14:28:22Z",
+  "lastModifiedDate" : "2022-09-20T17:48:55Z",
   "lastModifiedAgent" : "structurizr-web/2641/diagram",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgbW9kZWwgewogICAgICBzaXRlQWRtaW4gPSBwZXJzb24gIlNpdGUgQWRtaW4iICJBIHBlcnNvbiB3aG8gaXMgY29uZmlndXJpbmcgdGhlIGlzc3VlciBwcm92aWRlciIKICAgICAgbGVhcm5lciA9IHBlcnNvbiAiTGVhcm5lciIgIkEgc3ViamVjdCBhbmQgaG9sZGVyIG9mIHRoZSBWQyIKICAgICAgdmVyaWZpZXIgPSBwZXJzb24gIlZlcmlmaWVyIiAiRXh0ZXJuYWwgdmVyaWZpZXIsIGUuZy4sIGVtcGxveWVyIG9yIHVuaXZlcnNpdHkiCgogICAgICBkaWdpdGFsV2FsbGV0ID0gc29mdHdhcmVTeXN0ZW0gIkRpZ2l0YWwgV2FsbGV0IiAiQW55IGRpZ2l0YWwgd2FsbGV0IGNvbXBhdGlibGUgd2l0aCBWQyIKCiAgICAgICMgZW1haWxfc3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIkVtYWlsIHN5c3RlbSIKICAgICAgZ3JvdXAgIk9wZW4gZWRYIiB7CiAgICAgICAgICBlZHhQbGF0Zm9ybSA9IHNvZnR3YXJlU3lzdGVtICJlZHgtcGxhdGZvcm0iICIiICJQeXRob24vSlMiCgogICAgICAgICAgY3JlZGVudGlhbHNTZXJ2aWNlID0gc29mdHdhcmVTeXN0ZW0gImVkWCBDcmVkZW50aWFscyIgIk9wZW4gZWRYIGNyZWRlbnRpYWxzIHNlcnZpY2UgdGhhdCBzdG9yZXMgYWxsIHVzZXIgY29tcGxldGlvbnMgKGNyZWRlbnRpYWxzKSIgewogICAgICAgICAgICB2ZXJpZmllZENlcmRlbnRpYWxzSXNzdWVyID0gY29udGFpbmVyICJWZXJpZmllZCBDcmVkZW50aWFscyBJc3N1ZXIiICJJc3N1ZXMgdmVyaWZpZWQgY3JlZGVudGlhbHMgdGhhdCBjYW4gYmUgc3luY2hyb25pemVkIHdpdGggZGlnaXRhbCBjcmVkZW50aWFscyB3YWxsZXRzLiIgIkEgcGFydCBvZiBlZFggQ3JlZGVudGlhbHMiCiAgICAgICAgICAgIFZDSXNzdWVyTUZFID0gY29udGFpbmVyICJWQyBJc3N1ZXIgTUZFIiAiTUZFIGZvciBpc3N1aW5nIHZlcmlmaWFibGUgY3JlZGVudGlhbHMsIGlzIGEgcGFydCBvZiBleGlzdGFudCBNRkUgKGNyZWRlbnRpYWxzL3Byb2ZpbGUpLiIgIlJlYWN0SlMiCgoKICAgICAgICAgICAgICAjICBleGFtUHJvY3RvcmluZ2lQbHVnaW4gPSBjb250YWluZXIgIlBsdWdpbiBmb3IgRXhhbSBwcm9jdG9yaW5nIHByb3ZpZGVyIiAiUHJvdmlkZXMgc3BlY2lmaWMgb3ZlcnJpZGVzIGZvciBlZHgtcHJvY3RvcmluZyBtb2R1bGUiICJQeXRob24vSlMiCiAgICAgICAgICAgICAgIyAgfQoKCgogICAgICAgICAgICAgICNncm91cCAiV2ViUlRDIiB7CiAgICAgICAgICAgICAgIyBtZWRpYSBzZXJ2ZXJzCiAgICAgICAgICAgICAgIyAgd2ViUlRDc2VydmVyID0gY29udGFpbmVyICJXZWIgUlRDIE1lZGlhIFNlcnZlciIgIlByb2Nlc3NlcyBtZWRpYSBzdHJlYW0gYW5kIHN0cmVhbXMgbWVkaWEgdG8gY2xpZW50cyIgIkt1cmVudG8gfCBNZWRpYXNvdXAiCiAgICAgICAgICAgICAgI3dlYlJUQ0FQSXNlcnZlciA9IGNvbnRhaW5lciAiV2ViIFJUQyBBUEkgU2VydmVyIiAiVXNlcyBNZWRpYSBTZXJ2ZXIgQVBJIHRvIGNvbW11bmljYXRlIGJldHdlZW4gTWVkaWEgU2VydmVyIGFuZCBXZWIgU2VydmVyIiAiTm9kZS5qcyAvIFJ1c3QgLyBKYXZhIgogICAgICAgICAgICAgICMgIH0KICAgICAgICAgICAgICAjIGZyb250ZW5kCiAgICAgICAgICAgICAgIyAgcHJvY3RvclNQQSA9IGNvbnRhaW5lciAiUHJvY3RvciBDYWJpbmV0IiAiUHJvdmlkZXMgaW50ZXJmYWNlIGZvciBwcm9jdG9yIHRvIHdhdGNoIHJlY29yZGluZ3Mvc3RyZWFtcyBhbmQgcmVwb3J0IGluY2lkZW50cyIgIlJlYWN0LmpzIgogICAgICAgICAgICAgICNjb21taXR0ZWVTUEEgPSBjb250YWluZXIgIkNvbW1pdHRlZSBDYWJpbmV0IiAiUHJvdmlkZXMgaW50ZXJmYWNlIGZvciBjb21taXR0ZWUgbWVtYmVyIHRvIHdhdGNoIHJlY29yZGluZ3MgYW5kIHJldmlldyBpbmNpZGVudHMgcmVwb3J0cyIgIlJlYWN0LmpzIgogICAgICAgICAgICAgICMgIGVsZWN0cm9uQVBQID0gY29udGFpbmVyICJFbGVjdHJvbiBKUyBBcHBsaWNhdGlvbiIgIlN0cmVhbXMgbWVkaWEgdG8gYSBzZXJ2ZXIuIFJlcG9ydCBhcHBsaWNhdGlvbnMgcnVubmluZyBpbiBiYWNrZ3JvdW5kLiIgIlJlYWN0LmpzIgogICAgICAgICAgICAgICMgIGFwcGxpY2FudFNQQSA9IGNvbnRhaW5lciAiQXBwbGljYW50IGludGVyYWZhY2UgU1BBIiAiUHJvdmlkZXMgaWRlbnRpdHkgdmFsaWRhdGlvbiBhbmQgaW5jZWRlbnQgbm90aWZpY2F0aW9ucyB0byBhcHBsaWNhbnQuIiAiUmVhY3QuanMiCgoKICAgICAgICAgICAgICAjIGdyb3VwICJiYWNrZW5kIiB7CiAgICAgICAgICAgICAgIwogICAgICAgICAgICAgICMgICAgICMgYmFja2VuZAogICAgICAgICAgICAgICMgICAgICMgbG9hZEJhbGFuY2VyID0gY29udGFpbmVyICJMb2FkIEJhbGFuY2VyIFByb3h5IFNlcnZlciIgIiIgIlRyYWVmaWsiCiAgICAgICAgICAgICAgIyAgICAgd2ViQXBwbGljYXRpb24gPSBjb250YWluZXIgIldlYiBBcHBsaWNhdGlvbiIgIlByb3ZpZGVzIFByb2N0b3JpbmcgZnVuY3Rpb25hbGl0eSB2aWEgSlNPTi9IVFRQUyBBUEkuIiAiRGphbmdvIgogICAgICAgICAgICAgICMgICAgIGRyYW1hdGlxID0gY29udGFpbmVyICJEcmFtYXRpcSIgIkJhY2tncm91bmQgcXVldWVzIiAiUHl0aG9uIgogICAgICAgICAgICAgICMgICAgIHJhYmJpdE1RID0gY29udGFpbmVyICJSYWJiaXQgTVEiICJBIG1lc3NhZ2UgYnJva2VyIGZvciBxdWV1ZXMgYW5kIHNlcnZpY2VzIiAiUmFiYml0TVEiCiAgICAgICAgICAgICAgIyAgICAgZWxhc3RpY1NlYXJjaCA9IGNvbnRhaW5lciAiRWxhc3RpYyBTZWFyY2giICJBIHNlYXJjaCBpbXBsZW1lbnRhdGlvbiBmb3IgcHJvY3RvcnMgYW5kIENvbW1pdHRlZSBtZW1iZXJzIiAiRVM4IgogICAgICAgICAgICAgICMgICAgIHMzU3RvcmFnZSA9IGNvbnRhaW5lciAiQ2xvdWQgU3RvcmFnZSIgIkEgc3RvcmFnZSBmb3IgbWVkaWEgZmlsZXMgYW5kIHJlcG9ydHMiICJTMyIKICAgICAgICAgICAgICAjICAgICBkYXRhYmFzZSA9IGNvbnRhaW5lciAiRGF0YWJhc2UiICJTdG9yZXMgdXNlciBpbmZvcm1hdGlvbiwgaGFzaGVkIGF1dGhlbnRpY2F0aW9uIGNyZWRlbnRpYWxzLCB2aWRlbyByZWNvcmRpbmdzIGxpbmtzLCBwcm9jdG9ycycgY29tbWVudHMsIGV0Yy4iICJQb3N0cmVTUUwiICJEYXRhYmFzZSIKICAgICAgICAgICAgICAjICAgICB9CgogICAgICAgICAgICAgICMgbWwKICAgICAgICAgICAgICAjZ3JvdXAgIk1MIG1pY3Jvc2VydmljZXMiIHsKICAgICAgICAgICAgICAjICBtbFNlcnZpY2VJZGVudGl0eSA9IGNvbnRhaW5lciAiTUwgU2VydmljZSBmb3IgSWRlbnRpdHkgVmVyaWZpY2F0aW9uIiAiQ2hlY2tzIHVzZXIncyBpZGVudGl0eSB1c2luZyBNTCIgIlB5dGhvbiIKICAgICAgICAgICAgICAjICBtbFNlcnZpY2VWaWRlbyA9IGNvbnRhaW5lciAiTUwgU2VydmljZSBmb3IgQ29tcHV0ZXIgVmlzaW9uIiAiTW9uaXRvcnMgdmlkZW8gZm9yIGluY2lkZW50cyIgIlB5dGhvbiIKICAgICAgICAgICAgICAjfQoKICAgICAgICAgICAgICB9CiAgICAgICAgICB9CgoKICAgICAgIyByZWxhdGlvbnNoaXBzIGJldHdlZW4gcGVvcGxlIGFuZCBzb2Z0d2FyZSBzeXN0ZW1zCiAgICAgICMgdXNlcnMKICAgICAgc2l0ZUFkbWluIC0+IHZlcmlmaWVkQ2VyZGVudGlhbHNJc3N1ZXIgIldhdGNoZXMgcmVjb3JkaW5ncyBhbmQgc3RyZWFtcywgY29tbWVudHMgdXBvbiBpbmNpZGVudHMiCiAgICAgIGxlYXJuZXIgLT4gVkNJc3N1ZXJNRkUgIlJlcXVlc3RzIGRpZ2l0YWwgY3JlZGVudGlhbHMuIgogICAgICB2ZXJpZmllciAtPiB2ZXJpZmllZENlcmRlbnRpYWxzSXNzdWVyICJHZXQgUHVibGljIEtleSBmb3IgdmVyaWZpY2F0aW9uIgogICAgICAjIHNlcnZpY2VzCiAgICAgIHZlcmlmaWVkQ2VyZGVudGlhbHNJc3N1ZXIgLT4gZGlnaXRhbFdhbGxldCAiU2VuZHMgVkMiCiAgICAgIGRpZ2l0YWxXYWxsZXQgLT4gdmVyaWZpZWRDZXJkZW50aWFsc0lzc3VlciAiUmVxdWVzdHMgVkMiCiAgICAgICMgdmVyaWZpZWRDZXJkZW50aWFsc0lzc3VlciAtPiBjcmVkZW50aWFsc1NlcnZpY2UgIkdldHMgdXNlciBkYXRhIgogICAgICBlZHhQbGF0Zm9ybSAtPiBjcmVkZW50aWFsc1NlcnZpY2UgIlNlbmRzIGNvbXBsZXRpb25zIGRhdGEiCiAgICAgICMgdmVyaWZpZWRDZXJkZW50aWFsc0lzc3VlciAtPiBleGFtRURYTE1TICJNb25pdG9ycyBleGFtIHN0YXR1cyBhbmQgcHJvY3RvcmluZyByZXN1bHRzIgogICAgICAjIHZlcmlmaWVkQ2VyZGVudGlhbHNJc3N1ZXIgLT4gZW1haWxfc3lzdGVtICJTZW5kcyBub3RpZmljYXRpb24gYWJvdXQgaW5jaWRlbnRzIHJlcG9ydHMiCgoKCiAgICAgICMgICAgICMgcmVsYXRpb25zaGlwcyB0byAvIGZyb20gY29udGFpbmVycwogICAgICAjICAgICAjIHVzZXJzCiAgICAgICMgICAgIHNpdGVBZG1pbiAtPiBwcm9jdG9yU1BBICJWaXNpdHMgcHJvY3RvcnMgY2FiaW5ldCB0byB3YXRjaCBzdHJlYW0vcmVjb3JkaW5ncyBhbmQgcmVwb3J0cyBpbmNpZGVudHMiCiAgICAgICMgICAgIGxlYXJuZXIgLT4gY29tbWl0dGVlU1BBICJJbnNwZWN0cyBpbmNpZGVudHMgcmVwb3J0cyBhbmQgZXhhbSBzZXNzaW9uIHJlY29yZGluZ3MiCiAgICAgICMgICAgIHVzZXJBcHBsaWNhbnQgLT4gYXBwbGljYW50U1BBICJTdWJtaXRzIHVzZXIgZGF0YSIKICAgICAgIyAgICAgdXNlckFwcGxpY2FudCAtPiBleGFtRURYTE1TICJQYXNzZXMgZXhhbSIKICAgICAgIyAgICAgZWxlY3Ryb25BUFAgLT4gdXNlckFwcGxpY2FudCAiQ29udHJvbHMgYW5kIG5vdGlmaWVzIgogICAgICAjCiAgICAgICMKICAgICAgIyAgICAgIyBzZXJ2aWNlcwogICAgICAjICAgICBlbGVjdHJvbkFQUCAtPiB3ZWJSVENBUElzZXJ2ZXIgIlNlbmRzIG1lZGlhIHN0cmVhbSIKICAgICAgIyAgICAgd2ViUlRDQVBJc2VydmVyIC0+IHdlYlJUQ3NlcnZlciAiRm9yd2FyZHMgbWVkaWEgc3RyZWFtIgogICAgICAjICAgICB3ZWJSVENBUElzZXJ2ZXIgLT4gcmFiYml0TVEgIlB1Ymxpc2hlcyBpbmZvIGFib3V0IHJlY29yZGVkIHZpZGVvcyIKICAgICAgIyAgICAgd2ViUlRDc2VydmVyIC0+IHMzU3RvcmFnZSAiU3RvcmVzIG1lZGlhIGZpbGUiCiAgICAgICMKICAgICAgIwogICAgICAjICAgICBlbGVjdHJvbkFQUCAtPiB3ZWJBcHBsaWNhdGlvbiAiTm90aWZpZXMgYWJvdXQgZXhhbSdzIHN0YXRlIgogICAgICAjICAgICBhcHBsaWNhbnRTUEEgLT4gd2ViQXBwbGljYXRpb24gIk1ha2VzIEFQSSBDYWxscyB0byIgIkhUVFAvSlNPTiIKICAgICAgIyAgICAgY29tbWl0dGVlU1BBIC0+IHdlYkFwcGxpY2F0aW9uICJNYWtlcyBBUEkgQ2FsbHMgdG8iICJIVFRQL0pTT04iCiAgICAgICMgICAgIHByb2N0b3JTUEEgLT4gd2ViQXBwbGljYXRpb24gIlJlcG9ydCBpbmNpZGVudHMiCiAgICAgICMgICAgICMgbG9hZEJhbGFuY2VyIC0+IHdlYkFwcGxpY2F0aW9uICJMb2FkIGJhbGFuY2UgdGhlIHJlcXVlc3RzIgogICAgICAjICAgICB3ZWJBcHBsaWNhdGlvbiAtPiBzM1N0b3JhZ2UgIlN0b3JlcyBtZWRpYSIKICAgICAgIyAgICAgd2ViQXBwbGljYXRpb24gLT4gcmFiYml0TVEgIlNlbmRzIGJhY2tncm91bmQgdGFza3MgYW5kIGdldCByZWNvcmRlZCB2aWRlb3MgZGF0YSIKICAgICAgIyAgICAgd2ViQXBwbGljYXRpb24gLT4gZGF0YWJhc2UgIlJlYWRzIGZyb20gYW5kIHdyaXRlcyB0byIKICAgICAgIyAgICAgd2ViQXBwbGljYXRpb24gLT4gZWxhc3RpY1NlYXJjaCAiU2VhcmNoZXMgYW5kIGZpbHRlcnMgcmVjb3JkaW5ncyIKICAgICAgIyAgICAgZWxhc3RpY1NlYXJjaCAtPiBkYXRhYmFzZSAiSW5kZXhlcyBEQiIKICAgICAgIwogICAgICAjICAgICByYWJiaXRNUSAtPiBkcmFtYXRpcSAiUmVhZHMgYmFja2dyb3VuZCB0YXNrcyIKICAgICAgIyAgICAgZHJhbWF0aXEgLT4gZGF0YWJhc2UgIlJlYWRzIGZyb20gYW5kIHdyaXRlcyB0byIKICAgICAgIyAgICAgZHJhbWF0aXEgLT4gczNTdG9yYWdlICJTdG9yZXMgcmVwb3J0cyIKICAgICAgIwogICAgICAjICAgICAjdjIKICAgICAgIyAgICAgI3dlYlJUQ3NlcnZlciAtPiBwcm9jdG9yU1BBICJTdHJlYW1zIG1lZGlhIgogICAgICAjICAgICAjd2ViUlRDc2VydmVyIC0+IG1sU2VydmljZVZpZGVvICJTdHJlYW1zIG1lZGlhIgogICAgICAjICAgICAjd2ViQXBwbGljYXRpb24gLT4gbWxTZXJ2aWNlSWRlbnRpdHkgIlNlbmQgdXNlciBpZGVudGl0eSBkZXRhaWxzIgogICAgICAjICAgICAjdjMKICAgICAgIyAgICAgI21sU2VydmljZUlkZW50aXR5IC0+IHJhYmJpdE1RICJQdWJsaXNoZXMgcmVzdWx0cyIKICAgICAgIyAgICAgI21sU2VydmljZVZpZGVvIC0+IHJhYmJpdE1RICJQdWJsaXNoZXMgcmVzdWx0cyIKICAgICAgIwogICAgICAjICAgICAjIGRlcGxveW1lbnQKICAgICAgIyAgICAgIyBEZXYKICAgICAgIyAgICAgZGVwbG95bWVudEVudmlyb25tZW50ICJEZXZlbG9wbWVudCIgewogICAgICAjICAgICAgICAgZGVwbG95bWVudE5vZGUgIkRldmVsb3BlciBMYXB0b3AiICIiICJNaWNyb3NvZnQgV2luZG93cyAxMCwgVWJ1bnR1IExpbnV4LCBBcHBsZSBtYWNPUyIgewogICAgICAjICAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJFbGVjdHJvbiBBUFAiICJEZXNrdG9wIEFwcGxpY2F0aW9uIiAiRWxlY3Ryb24uSlMiIHsKICAgICAgIyAgICAgICAgICAgICAgICAgZGV2ZWxvcGVyRWxlY3Ryb25BcHBsaWNhdGlvbkluc3RhbmNlID0gY29udGFpbmVySW5zdGFuY2UgZWxlY3Ryb25BUFAKICAgICAgIyAgICAgICAgICAgICAgICAgfQogICAgICAjICAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJEb2NrZXIgQ29udGFpbmVyIC0gV2ViIFNlcnZlciIgIiIgIkRvY2tlciIgewogICAgICAjICAgICAgICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiRGphbmdvIiAiV2ViIEFwcGxpY2F0aW9uIiAiRGphbmdvIiB7CiAgICAgICMgICAgICAgICAgICAgICAgICAgICBkZXZlbG9wZXJXZWJBcHBsaWNhdGlvbkluc3RhbmNlID0gY29udGFpbmVySW5zdGFuY2Ugd2ViQXBwbGljYXRpb24KICAgICAgIyAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgIyAgICAgICAgICAgICAgICAgfQogICAgICAjICAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJEb2NrZXIgQ29udGFpbmVyIC0gRGF0YWJhc2UgU2VydmVyIiAiIiAiRG9ja2VyIiB7CiAgICAgICMgICAgICAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJEYXRhYmFzZSBTZXJ2ZXIiICIiICJQb3N0Z3JlU1FMIiB7CiAgICAgICMgICAgICAgICAgICAgICAgICAgICBkZXZlbG9wZXJEYXRhYmFzZUluc3RhbmNlID0gY29udGFpbmVySW5zdGFuY2UgZGF0YWJhc2UKICAgICAgIyAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgIyAgICAgICAgICAgICAgICAgfQogICAgICAjICAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJEb2NrZXIgQ29udGFpbmVyIC0gU3RvcmFnZSBTZXJ2ZXIiICIiICJEb2NrZXIiIHsKICAgICAgIyAgICAgICAgICAgICAgICAgZGVwbG95bWVudE5vZGUgIkNsb3VkIFN0b3JhZ2UiICJBIHN0b3JhZ2UgZm9yIG1lZGlhIGZpbGVzIGFuZCByZXBvcnRzIiAiTWluaW8iIHsKICAgICAgIyAgICAgICAgICAgICAgICAgICAgIGRldmVsb3BlclN0b3JhZ2VJbnN0YW5jZSA9IGNvbnRhaW5lckluc3RhbmNlIHMzU3RvcmFnZQogICAgICAjICAgICAgICAgICAgICAgICAgICAgfQogICAgICAjICAgICAgICAgICAgICAgICB9CiAgICAgICMgICAgICAgICAgICAgZGVwbG95bWVudE5vZGUgIkRvY2tlciBDb250YWluZXIgLSBNZWRpYSBTZXJ2ZXIiICIiICJEb2NrZXIiIHsKICAgICAgIyAgICAgICAgICAgICAgICAgZGVwbG95bWVudE5vZGUgIldlYiBSVEMgTWVkaWEgU2VydmVyIiAiIiAiS3VyZW50byIgewogICAgICAjICAgICAgICAgICAgICAgICAgICAgZGV2ZWxvcGVyTWVkaWFTZXJ2ZXJJbnN0YW5jZSA9IGNvbnRhaW5lckluc3RhbmNlIHdlYlJUQ3NlcnZlcgogICAgICAjICAgICAgICAgICAgICAgICAgICAgfQogICAgICAjICAgICAgICAgICAgICAgICB9CiAgICAgICMgICAgICAgICAgICAgZGVwbG95bWVudE5vZGUgIkRvY2tlciBDb250YWluZXIgLSBNZWRpYSBBUEkgU2VydmVyIiAiIiAiRG9ja2VyIiB7CiAgICAgICMgICAgICAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJXZWIgUlRDIEFQSSBNZWRpYSBTZXJ2ZXIiICIiICJOb2RlLmpzIiB7CiAgICAgICMgICAgICAgICAgICAgICAgICAgICBkZXZlbG9wZXJBUElNZWRpYVNlcnZlckluc3RhbmNlID0gY29udGFpbmVySW5zdGFuY2Ugd2ViUlRDQVBJc2VydmVyCiAgICAgICMgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICMgICAgICAgICAgICAgICAgIH0KICAgICAgIyAgICAgICAgICAgICB9CiAgICAgICMKICAgICAgIyAgICAgICAgIH0KICAgICAgIwogIH0KCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtQ29udGV4dCBjcmVkZW50aWFsc1NlcnZpY2UgIlN5c3RlbUNvbnRleHQiIHsKICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgIH0KICAgICAgICBjb250YWluZXIgY3JlZGVudGlhbHNTZXJ2aWNlICJDcmVkZW50aWFscyIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICB9CgogICAgIyBhbmltYXRpb24gewogICAgIyAgIHVzZXJBcHBsaWNhbnQKICAgICMgICBzaXRlQWRtaW4KICAgICMgICBsZWFybmVyCiAgICAjICAgdmVyaWZpZWRDZXJkZW50aWFsc0lzc3VlcgogICAgIyAgIHJlZ2lzdGVyU3lzdGVtCiAgICAjIH0KCgoKICAgIHRoZW1lICJodHRwczovL3N0YXRpYy5zdHJ1Y3R1cml6ci5jb20vdGhlbWVzL2FtYXpvbi13ZWItc2VydmljZXMtMjAyMi4wNC4zMC90aGVtZS5qc29uIgoKCiAgICBzdHlsZXMgewogICAgICBlbGVtZW50ICJQZXJzb24iIHsKICAgICAgICBjb2xvciAgIiNmZmZmZmYiCiAgICAgICAgZm9udFNpemUgMjIKICAgICAgICBzaGFwZSBQZXJzb24KICAgICAgfQogICAgICBlbGVtZW50ICJDdXN0b21lciIgewogICAgICAgIGJhY2tncm91bmQgICIjMDg0MjdiIgogICAgICB9CiAgICAgIGVsZW1lbnQgIkJhbmsgU3RhZmYiIHsKICAgICAgICBiYWNrZ3JvdW5kICAiIzk5OTk5OSIKICAgICAgfQogICAgICBlbGVtZW50ICJTb2Z0d2FyZSBTeXN0ZW0iIHsKICAgICAgICBiYWNrZ3JvdW5kICAiIzExNjhiZCIKICAgICAgICBjb2xvciAgIiNmZmZmZmYiCiAgICAgIH0KICAgICAgZWxlbWVudCAiRXhpc3RpbmcgU3lzdGVtIiB7CiAgICAgICAgYmFja2dyb3VuZCAgIiM5OTk5OTkiCiAgICAgICAgY29sb3IgICIjZmZmZmZmIgogICAgICB9CiAgICAgIGVsZW1lbnQgIkNvbnRhaW5lciIgewogICAgICAgIGJhY2tncm91bmQgICIjNDM4ZGQ1IgogICAgICAgIGNvbG9yICAiI2ZmZmZmZiIKICAgICAgfQogICAgICBlbGVtZW50ICJXZWIgQnJvd3NlciIgewogICAgICAgIHNoYXBlIFdlYkJyb3dzZXIKICAgICAgfQogICAgICBlbGVtZW50ICJNb2JpbGUgQXBwIiB7CiAgICAgICAgc2hhcGUgTW9iaWxlRGV2aWNlTGFuZHNjYXBlCiAgICAgIH0KICAgICAgZWxlbWVudCAiRGF0YWJhc2UiIHsKICAgICAgICBzaGFwZSBDeWxpbmRlcgogICAgICB9CiAgICAgIGVsZW1lbnQgIkNsb3VkIFN0b3JhZ2UiIHsKICAgICAgICBzaGFwZSBDeWxpbmRlcgogICAgICB9CiAgICAgIGVsZW1lbnQgInMzU3RvcmFnZSIgewogICAgICAgIHNoYXBlIEN5bGluZGVyCiAgICAgIH0KICAgICAgZWxlbWVudCAiQ29tcG9uZW50IiB7CiAgICAgICAgYmFja2dyb3VuZCAgIiM4NWJiZjAiCiAgICAgICAgY29sb3IgICIjMDAwMDAwIgogICAgICB9CiAgICAgIGVsZW1lbnQgIkZhaWxvdmVyIiB7CiAgICAgICAgb3BhY2l0eSAyNQogICAgICB9CiAgICB9CiAgfQoKfQo="
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgbW9kZWwgewogICAgICBzaXRlQWRtaW4gPSBwZXJzb24gIlNpdGUgQWRtaW4iICJBIHBlcnNvbiB3aG8gaXMgY29uZmlndXJpbmcgdGhlIGlzc3VlciBwcm92aWRlciIKICAgICAgbGVhcm5lciA9IHBlcnNvbiAiTGVhcm5lciIgIkEgc3ViamVjdCBhbmQgaG9sZGVyIG9mIHRoZSBWQyIKICAgICAgdmVyaWZpZXIgPSBwZXJzb24gIlZlcmlmaWVyIiAiRXh0ZXJuYWwgdmVyaWZpZXIsIGUuZy4sIGVtcGxveWVyIG9yIHVuaXZlcnNpdHkiCgogICAgICBkaWdpdGFsV2FsbGV0ID0gc29mdHdhcmVTeXN0ZW0gIkRpZ2l0YWwgV2FsbGV0IiAiQW55IGRpZ2l0YWwgd2FsbGV0IGNvbXBhdGlibGUgd2l0aCBWQyIKICAgICAgZGlnaXRhbEJhZGdlUGxhdGZvcm0gPSBzb2Z0d2FyZVN5c3RlbSAiRGlnaXRhbCBCYWRnZSBhbmQgY2VydGlmaWNhdGUgcGxhdGZvcm0iICJCYWRnciwgQWNjcmVkaWJsZSwgQ3JlZGx5Li4uIgoKICAgICAgIyBlbWFpbF9zeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiRW1haWwgc3lzdGVtIgogICAgICBvcGVuZWRYID0gc29mdHdhcmVTeXN0ZW0gIk9wZW4gZWRYIiAiIiB7CiAgICAgICAgICBlZHhQbGF0Zm9ybSA9IGNvbnRhaW5lciAiZWR4LXBsYXRmb3JtIiAiIiAiUHl0aG9uL0pTIgogICAgICAgICAgc2lnbkFuZFZlcmlmeSA9IGNvbnRhaW5lciAiU2lnbiZWZXJpZnkiICJWQyBzaWduaW5nIHNlcnZpY2UiICJKUyBBUEkiCiAgICAgICAgICBjcmVkZW50aWFsc1NlcnZpY2UgPSBjb250YWluZXIgImVkWCBDcmVkZW50aWFscyIgIk9wZW4gZWRYIGNyZWRlbnRpYWxzIHNlcnZpY2UgdGhhdCBzdG9yZXMgYWxsIHVzZXIgY29tcGxldGlvbnMgKGNyZWRlbnRpYWxzKSIgewogICAgICAgICAgICBjcmVkZW50aWFsc0NvcmUgPSBjb21wb25lbnQgImVkWCBDcmVkZW50aWFscyBDb3JlIiAiTWFuYWdlcyBwcm9ncmFtIGFuZCBDb3Vyc2UgY2VydGlmaWNhdGVzIiAiRGphbmdvIgogICAgICAgICAgICBkaWdpdGFsQmFkZ2VzSXNzdWVyID0gY29tcG9uZW50ICJEaWdpdGFsIEJhZGdlcyBJc3N1ZXIiICJOb3RpZmllcyBleHRlcm5hbCBwbGF0Zm9ybXMgYWJvdXQgdXNlcidzIGVkWCBhY2NvbXBsaXNobWVudHMuIiAiIgogICAgICAgICAgICB2ZXJpZmllZENlcmRlbnRpYWxzSXNzdWVyID0gY29tcG9uZW50ICJWZXJpZmllZCBDcmVkZW50aWFscyBJc3N1ZXIiICJJc3N1ZXMgdmVyaWZpZWQgY3JlZGVudGlhbHMgdGhhdCBjYW4gYmUgc3luY2hyb25pemVkIHdpdGggZGlnaXRhbCBjcmVkZW50aWFscyB3YWxsZXRzLiIgIkRqYW5nbyIKICAgICAgICAgICAgVkNJc3N1ZXJNRkUgPSBjb21wb25lbnQgIlZDIElzc3VlciBNRkUiICJNRkUgZm9yIGlzc3VpbmcgdmVyaWZpYWJsZSBjcmVkZW50aWFscywgaXMgYSBwYXJ0IG9mIGV4aXN0YW50IE1GRSAoY3JlZGVudGlhbHMpLiIgIlJlYWN0SlMiCiAgICAgICAgICB9CiAgICAgICAgICBteVNRTCA9IGNvbnRhaW5lciAiTXlTUUwiICJSREJNUyIgIiIgIkRhdGFiYXNlIgogICAgICAgICAgbW9uZ29EQiA9IGNvbnRhaW5lciAiTW9uZ29EQiIgIiIgIiIgIkRhdGFiYXNlIgoKICAgICAgfQoKCiAgICAgICMgZGF0YSBzdG9yYWdlCiAgICAgIGNyZWRlbnRpYWxzQ29yZSAtPiBteVNRTCAiUmVhZHMgZnJvbSBhbmQgd3JpdGVzIHRvIENyZWRlbnRpYWxzIERhdGFiYXNlIiAiRGFqbmdvT1JNIgogICAgICBkaWdpdGFsQmFkZ2VzSXNzdWVyIC0+IG15U1FMICJSZWFkcyBmcm9tIGFuZCB3cml0ZXMgdG8iICJEYWpuZ29PUk0iCiAgICAgIHZlcmlmaWVkQ2VyZGVudGlhbHNJc3N1ZXIgLT4gbXlTUUwgIlJlYWRzIGZyb20gYW5kIHdyaXRlcyB0byIgIkRham5nb09STSIKICAgICAgZWR4UGxhdGZvcm0gLT4gbXlTUUwgIlJlYWRzIGZyb20gYW5kIHdyaXRlcyB0byIgIkRham5nb09STSIKICAgICAgZWR4UGxhdGZvcm0gLT4gbW9uZ29EQiAiUmVhZHMgZnJvbSBhbmQgd3JpdGVzIHRvIiAiTW9kdWxlc3RvcmUiCiAgICAgIHNpZ25BbmRWZXJpZnkgLT4gbW9uZ29EQiAiUmVhZHMgZnJvbSBhbmQgd3JpdGVzIHRvIiAibW9uZ29kYiIKCiAgICAgICMgcmVsYXRpb25zaGlwcyBiZXR3ZWVuIHBlb3BsZSBhbmQgc29mdHdhcmUgc3lzdGVtcwogICAgICAjIHVzZXJzCiAgICAgICAgc2l0ZUFkbWluIC0+IGNyZWRlbnRpYWxzQ29yZSAiQ29uZmlndXJlIFZDIGlzc3VpbmciCiAgICAgICAgbGVhcm5lciAtPiBWQ0lzc3Vlck1GRSAiUmVxdWVzdHMgdmVyaWZpYWJsZSBjcmVkZW50aWFsIgogICAgICAgIGxlYXJuZXIgLT4gZWR4UGxhdGZvcm0gIkNvbXBsZXRlIGFzc2lnbm1lbnRzIgogICAgICAgIHZlcmlmaWVyIC0+IGNyZWRlbnRpYWxzU2VydmljZSAiR2V0IFB1YmxpYyBLZXkgZm9yIGlzc3VlciB2ZXJpZmljYXRpb24iCgogICAgICAjIHNlcnZpY2VzCgogICAgICAjIHZlcmlmaWVkQ2VyZGVudGlhbHNJc3N1ZXIgLT4gY3JlZGVudGlhbHNTZXJ2aWNlICJHZXRzIHVzZXIgZGF0YSIKICAgICAgICBjcmVkZW50aWFsc1NlcnZpY2UgLT4gZWR4UGxhdGZvcm0gIkdldCBjb21wbGV0aW9ucyBkYXRhIgogICAgICAjIHZlcmlmaWVkQ2VyZGVudGlhbHNJc3N1ZXIgLT4gZXhhbUVEWExNUyAiTW9uaXRvcnMgZXhhbSBzdGF0dXMgYW5kIHByb2N0b3JpbmcgcmVzdWx0cyIKICAgICAgIyB2ZXJpZmllZENlcmRlbnRpYWxzSXNzdWVyIC0+IGVtYWlsX3N5c3RlbSAiU2VuZHMgbm90aWZpY2F0aW9uIGFib3V0IGluY2lkZW50cyByZXBvcnRzIgogICAgICAgIHZlcmlmaWVkQ2VyZGVudGlhbHNJc3N1ZXIgLT4gc2lnbkFuZFZlcmlmeSAiU2lnbiBWZXJpZmlhYmxlIENyZWRlbnRpYWwiCgoKCiAgICAgICMgcmVsYXRpb25zaGlwcyB0byAvIGZyb20gY29udGFpbmVycwogICAgICAgICAgIyB1c2VycwoKICAgICAgICAgICMgICAgIHNpdGVBZG1pbiAtPiBwcm9jdG9yU1BBICJWaXNpdHMgcHJvY3RvcnMgY2FiaW5ldCB0byB3YXRjaCBzdHJlYW0vcmVjb3JkaW5ncyBhbmQgcmVwb3J0cyBpbmNpZGVudHMiCiAgICAgICAgICAjICAgICBsZWFybmVyIC0+IGNvbW1pdHRlZVNQQSAiSW5zcGVjdHMgaW5jaWRlbnRzIHJlcG9ydHMgYW5kIGV4YW0gc2Vzc2lvbiByZWNvcmRpbmdzIgogICAgICAgICAgIyAgICAgdXNlckFwcGxpY2FudCAtPiBhcHBsaWNhbnRTUEEgIlN1Ym1pdHMgdXNlciBkYXRhIgogICAgICAgICAgIyAgICAgdXNlckFwcGxpY2FudCAtPiBleGFtRURYTE1TICJQYXNzZXMgZXhhbSIKICAgICAgICAgICMgICAgIGVsZWN0cm9uQVBQIC0+IHVzZXJBcHBsaWNhbnQgIkNvbnRyb2xzIGFuZCBub3RpZmllcyIKCgogICAgICAgICAgIyBzZXJ2aWNlcwogICAgICAgICAgICAgIGRpZ2l0YWxXYWxsZXQgLT4gdmVyaWZpZWRDZXJkZW50aWFsc0lzc3VlciAiUmVxdWVzdHMgVkMiCiAgICAgICAgICAgICAgdmVyaWZpZWRDZXJkZW50aWFsc0lzc3VlciAtPiBkaWdpdGFsV2FsbGV0ICJTZW5kcyBWQyIKCiAgICAgICAgICAgICAgZGlnaXRhbEJhZGdlc0lzc3VlciAtPiBkaWdpdGFsQmFkZ2VQbGF0Zm9ybSAiUkVTVCBBUEkiCiAgICAgICAgICAgICAgY3JlZGVudGlhbHNDb3JlIC0+IGRpZ2l0YWxCYWRnZXNJc3N1ZXIgIkNlcnRpZmljYXRlIGdlbmVyYXRpb24gc2lnbmFsIgoKCiAgICAgICAgICAgICAgIyBGRQogICAgICAgICAgICAgIFZDSXNzdWVyTUZFIC0+IHZlcmlmaWVkQ2VyZGVudGlhbHNJc3N1ZXIgIkdldCBsaXN0IG9mIGNvbXBsZXRpb25zIHRvIGlzc3VlIFZDIgoKICAgICAgICAgICMgICAgIGVsZWN0cm9uQVBQIC0+IHdlYlJUQ0FQSXNlcnZlciAiU2VuZHMgbWVkaWEgc3RyZWFtIgogICAgICAgICAgIyAgICAgd2ViUlRDQVBJc2VydmVyIC0+IHdlYlJUQ3NlcnZlciAiRm9yd2FyZHMgbWVkaWEgc3RyZWFtIgogICAgICAgICAgIyAgICAgd2ViUlRDQVBJc2VydmVyIC0+IHJhYmJpdE1RICJQdWJsaXNoZXMgaW5mbyBhYm91dCByZWNvcmRlZCB2aWRlb3MiCiAgICAgICAgICAjICAgICB3ZWJSVENzZXJ2ZXIgLT4gczNTdG9yYWdlICJTdG9yZXMgbWVkaWEgZmlsZSIKICAgICAgICAgICMKICAgICAgICAgICMKICAgICAgICAgICMgICAgIGVsZWN0cm9uQVBQIC0+IHdlYkFwcGxpY2F0aW9uICJOb3RpZmllcyBhYm91dCBleGFtJ3Mgc3RhdGUiCiAgICAgICAgICAjICAgICBhcHBsaWNhbnRTUEEgLT4gd2ViQXBwbGljYXRpb24gIk1ha2VzIEFQSSBDYWxscyB0byIgIkhUVFAvSlNPTiIKICAgICAgICAgICMgICAgIGNvbW1pdHRlZVNQQSAtPiB3ZWJBcHBsaWNhdGlvbiAiTWFrZXMgQVBJIENhbGxzIHRvIiAiSFRUUC9KU09OIgogICAgICAgICAgIyAgICAgcHJvY3RvclNQQSAtPiB3ZWJBcHBsaWNhdGlvbiAiUmVwb3J0IGluY2lkZW50cyIKICAgICAgICAgICMgICAgICMgbG9hZEJhbGFuY2VyIC0+IHdlYkFwcGxpY2F0aW9uICJMb2FkIGJhbGFuY2UgdGhlIHJlcXVlc3RzIgogICAgICAgICAgIyAgICAgd2ViQXBwbGljYXRpb24gLT4gczNTdG9yYWdlICJTdG9yZXMgbWVkaWEiCiAgICAgICAgICAjICAgICB3ZWJBcHBsaWNhdGlvbiAtPiByYWJiaXRNUSAiU2VuZHMgYmFja2dyb3VuZCB0YXNrcyBhbmQgZ2V0IHJlY29yZGVkIHZpZGVvcyBkYXRhIgogICAgICAgICAgIyAgICAgd2ViQXBwbGljYXRpb24gLT4gZGF0YWJhc2UgIlJlYWRzIGZyb20gYW5kIHdyaXRlcyB0byIKICAgICAgICAgICMgICAgIHdlYkFwcGxpY2F0aW9uIC0+IGVsYXN0aWNTZWFyY2ggIlNlYXJjaGVzIGFuZCBmaWx0ZXJzIHJlY29yZGluZ3MiCiAgICAgICAgICAjICAgICBlbGFzdGljU2VhcmNoIC0+IGRhdGFiYXNlICJJbmRleGVzIERCIgogICAgICAgICAgIwogICAgICAgICAgIyAgICAgcmFiYml0TVEgLT4gZHJhbWF0aXEgIlJlYWRzIGJhY2tncm91bmQgdGFza3MiCiAgICAgICAgICAjICAgICBkcmFtYXRpcSAtPiBkYXRhYmFzZSAiUmVhZHMgZnJvbSBhbmQgd3JpdGVzIHRvIgogICAgICAgICAgIyAgICAgZHJhbWF0aXEgLT4gczNTdG9yYWdlICJTdG9yZXMgcmVwb3J0cyIKICAgICAgICAgICMKICAgICAgICAgICMgICAgICN2MgogICAgICAgICAgIyAgICAgI3dlYlJUQ3NlcnZlciAtPiBwcm9jdG9yU1BBICJTdHJlYW1zIG1lZGlhIgogICAgICAgICAgIyAgICAgI3dlYlJUQ3NlcnZlciAtPiBtbFNlcnZpY2VWaWRlbyAiU3RyZWFtcyBtZWRpYSIKICAgICAgICAgICMgICAgICN3ZWJBcHBsaWNhdGlvbiAtPiBtbFNlcnZpY2VJZGVudGl0eSAiU2VuZCB1c2VyIGlkZW50aXR5IGRldGFpbHMiCiAgICAgICAgICAjICAgICAjdjMKICAgICAgICAgICMgICAgICNtbFNlcnZpY2VJZGVudGl0eSAtPiByYWJiaXRNUSAiUHVibGlzaGVzIHJlc3VsdHMiCiAgICAgICAgICAjICAgICAjbWxTZXJ2aWNlVmlkZW8gLT4gcmFiYml0TVEgIlB1Ymxpc2hlcyByZXN1bHRzIgogICAgICAgICAgIwogICAgICAgICAgIyAgICAgIyBkZXBsb3ltZW50CiAgICAgICAgICAjICAgICAjIERldgogICAgICAgICAgIyAgICAgZGVwbG95bWVudEVudmlyb25tZW50ICJEZXZlbG9wbWVudCIgewogICAgICAgICAgIyAgICAgICAgIGRlcGxveW1lbnROb2RlICJEZXZlbG9wZXIgTGFwdG9wIiAiIiAiTWljcm9zb2Z0IFdpbmRvd3MgMTAsIFVidW50dSBMaW51eCwgQXBwbGUgbWFjT1MiIHsKICAgICAgICAgICMgICAgICAgICAgICAgZGVwbG95bWVudE5vZGUgIkVsZWN0cm9uIEFQUCIgIkRlc2t0b3AgQXBwbGljYXRpb24iICJFbGVjdHJvbi5KUyIgewogICAgICAgICAgIyAgICAgICAgICAgICAgICAgZGV2ZWxvcGVyRWxlY3Ryb25BcHBsaWNhdGlvbkluc3RhbmNlID0gY29udGFpbmVySW5zdGFuY2UgZWxlY3Ryb25BUFAKICAgICAgICAgICMgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICMgICAgICAgICAgICAgZGVwbG95bWVudE5vZGUgIkRvY2tlciBDb250YWluZXIgLSBXZWIgU2VydmVyIiAiIiAiRG9ja2VyIiB7CiAgICAgICAgICAjICAgICAgICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiRGphbmdvIiAiV2ViIEFwcGxpY2F0aW9uIiAiRGphbmdvIiB7CiAgICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgZGV2ZWxvcGVyV2ViQXBwbGljYXRpb25JbnN0YW5jZSA9IGNvbnRhaW5lckluc3RhbmNlIHdlYkFwcGxpY2F0aW9uCiAgICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgIyAgICAgICAgICAgICAgICAgfQogICAgICAgICAgIyAgICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiRG9ja2VyIENvbnRhaW5lciAtIERhdGFiYXNlIFNlcnZlciIgIiIgIkRvY2tlciIgewogICAgICAgICAgIyAgICAgICAgICAgICAgICAgZGVwbG95bWVudE5vZGUgIkRhdGFiYXNlIFNlcnZlciIgIiIgIlBvc3RncmVTUUwiIHsKICAgICAgICAgICMgICAgICAgICAgICAgICAgICAgICBkZXZlbG9wZXJEYXRhYmFzZUluc3RhbmNlID0gY29udGFpbmVySW5zdGFuY2UgZGF0YWJhc2UKICAgICAgICAgICMgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAjICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAjICAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJEb2NrZXIgQ29udGFpbmVyIC0gU3RvcmFnZSBTZXJ2ZXIiICIiICJEb2NrZXIiIHsKICAgICAgICAgICMgICAgICAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJDbG91ZCBTdG9yYWdlIiAiQSBzdG9yYWdlIGZvciBtZWRpYSBmaWxlcyBhbmQgcmVwb3J0cyIgIk1pbmlvIiB7CiAgICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgZGV2ZWxvcGVyU3RvcmFnZUluc3RhbmNlID0gY29udGFpbmVySW5zdGFuY2UgczNTdG9yYWdlCiAgICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgIyAgICAgICAgICAgICAgICAgfQogICAgICAgICAgIyAgICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiRG9ja2VyIENvbnRhaW5lciAtIE1lZGlhIFNlcnZlciIgIiIgIkRvY2tlciIgewogICAgICAgICAgIyAgICAgICAgICAgICAgICAgZGVwbG95bWVudE5vZGUgIldlYiBSVEMgTWVkaWEgU2VydmVyIiAiIiAiS3VyZW50byIgewogICAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgIGRldmVsb3Blck1lZGlhU2VydmVySW5zdGFuY2UgPSBjb250YWluZXJJbnN0YW5jZSB3ZWJSVENzZXJ2ZXIKICAgICAgICAgICMgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAjICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAjICAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJEb2NrZXIgQ29udGFpbmVyIC0gTWVkaWEgQVBJIFNlcnZlciIgIiIgIkRvY2tlciIgewogICAgICAgICAgIyAgICAgICAgICAgICAgICAgZGVwbG95bWVudE5vZGUgIldlYiBSVEMgQVBJIE1lZGlhIFNlcnZlciIgIiIgIk5vZGUuanMiIHsKICAgICAgICAgICMgICAgICAgICAgICAgICAgICAgICBkZXZlbG9wZXJBUElNZWRpYVNlcnZlckluc3RhbmNlID0gY29udGFpbmVySW5zdGFuY2Ugd2ViUlRDQVBJc2VydmVyCiAgICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgIyAgICAgICAgICAgICAgICAgfQogICAgICAgICAgIyAgICAgICAgICAgICB9CiAgICAgICAgICAjCiAgICAgICAgICAjICAgICAgICAgfQogICAgICAgICAgIwogIH0KCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtQ29udGV4dCBvcGVuZWRYICJTeXN0ZW1Db250ZXh0IiB7CiAgICAgICAgICBpbmNsdWRlICoKICAgICAgICB9CiAgICAgICAgY29udGFpbmVyIG9wZW5lZFggIk9wZW5lZFgiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgfQogICAgICAgIGNvbXBvbmVudCBjcmVkZW50aWFsc1NlcnZpY2UgIkNyZWRlbnRpYWxzIiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhbmltYXRpb24gewogICAgICAgICAgICAgICAgc2lnbkFuZFZlcmlmeQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICMgYW5pbWF0aW9uIHsKICAgICMgICB1c2VyQXBwbGljYW50CiAgICAjICAgc2l0ZUFkbWluCiAgICAjICAgbGVhcm5lcgogICAgIyAgIHZlcmlmaWVkQ2VyZGVudGlhbHNJc3N1ZXIKICAgICMgICByZWdpc3RlclN5c3RlbQogICAgIyB9CgoKCiAgICAjdGhlbWUgImh0dHBzOi8vc3RhdGljLnN0cnVjdHVyaXpyLmNvbS90aGVtZXMvYW1hem9uLXdlYi1zZXJ2aWNlcy0yMDIyLjA0LjMwL3RoZW1lLmpzb24iCgoKICAgIHN0eWxlcyB7CiAgICAgIGVsZW1lbnQgIlBlcnNvbiIgewogICAgICAgIGNvbG9yICAiI2ZmZmZmZiIKICAgICAgICBmb250U2l6ZSAyMgogICAgICAgIHNoYXBlIFBlcnNvbgogICAgICB9CiAgICAgIGVsZW1lbnQgIkN1c3RvbWVyIiB7CiAgICAgICAgYmFja2dyb3VuZCAgIiMwODQyN2IiCiAgICAgIH0KICAgICAgZWxlbWVudCAiQmFuayBTdGFmZiIgewogICAgICAgIGJhY2tncm91bmQgICIjOTk5OTk5IgogICAgICB9CiAgICAgIGVsZW1lbnQgIlNvZnR3YXJlIFN5c3RlbSIgewogICAgICAgIGJhY2tncm91bmQgICIjMTE2OGJkIgogICAgICAgIGNvbG9yICAiI2ZmZmZmZiIKICAgICAgfQogICAgICBlbGVtZW50ICJFeGlzdGluZyBTeXN0ZW0iIHsKICAgICAgICBiYWNrZ3JvdW5kICAiIzk5OTk5OSIKICAgICAgICBjb2xvciAgIiNmZmZmZmYiCiAgICAgIH0KICAgICAgZWxlbWVudCAiQ29udGFpbmVyIiB7CiAgICAgICAgYmFja2dyb3VuZCAgIiM0MzhkZDUiCiAgICAgICAgY29sb3IgICIjZmZmZmZmIgogICAgICB9CiAgICAgIGVsZW1lbnQgIldlYiBCcm93c2VyIiB7CiAgICAgICAgc2hhcGUgV2ViQnJvd3NlcgogICAgICB9CiAgICAgIGVsZW1lbnQgIk1vYmlsZSBBcHAiIHsKICAgICAgICBzaGFwZSBNb2JpbGVEZXZpY2VMYW5kc2NhcGUKICAgICAgfQogICAgICBlbGVtZW50ICJEYXRhYmFzZSIgewogICAgICAgIHNoYXBlIEN5bGluZGVyCiAgICAgIH0KICAgICAgZWxlbWVudCAiQ2xvdWQgU3RvcmFnZSIgewogICAgICAgIHNoYXBlIEN5bGluZGVyCiAgICAgIH0KICAgICAgZWxlbWVudCAiczNTdG9yYWdlIiB7CiAgICAgICAgc2hhcGUgQ3lsaW5kZXIKICAgICAgfQogICAgICBlbGVtZW50ICJDb21wb25lbnQiIHsKICAgICAgICBiYWNrZ3JvdW5kICAiIzg1YmJmMCIKICAgICAgICBjb2xvciAgIiMwMDAwMDAiCiAgICAgIH0KICAgICAgZWxlbWVudCAiRmFpbG92ZXIiIHsKICAgICAgICBvcGFjaXR5IDI1CiAgICAgIH0KICAgIH0KICB9Cgp9Cg=="
   },
   "configuration" : { },
   "model" : {
     "people" : [ {
-      "id" : "3",
+      "id" : "1",
       "tags" : "Element,Person",
-      "name" : "Verifier",
-      "description" : "External verifier, e.g., employer or university",
+      "name" : "Site Admin",
+      "description" : "A person who is configuring the issuer provider",
       "relationships" : [ {
-        "id" : "13",
+        "id" : "23",
         "tags" : "Relationship",
-        "sourceId" : "3",
-        "destinationId" : "7",
-        "description" : "Get Public Key for verification",
+        "sourceId" : "1",
+        "destinationId" : "10",
+        "description" : "Configure VC issuing",
         "defaultTags" : [ "Relationship" ]
       }, {
-        "id" : "14",
+        "id" : "24",
         "tags" : "Relationship",
-        "sourceId" : "3",
+        "sourceId" : "1",
+        "destinationId" : "9",
+        "description" : "Configure VC issuing",
+        "defaultTags" : [ "Relationship" ]
+      }, {
+        "id" : "25",
+        "tags" : "Relationship",
+        "sourceId" : "1",
         "destinationId" : "6",
-        "description" : "Get Public Key for verification",
+        "description" : "Configure VC issuing",
         "defaultTags" : [ "Relationship" ]
       } ],
       "location" : "Unspecified",
@@ -38,120 +45,304 @@
       "name" : "Learner",
       "description" : "A subject and holder of the VC",
       "relationships" : [ {
-        "id" : "12",
+        "id" : "26",
+        "tags" : "Relationship",
+        "sourceId" : "2",
+        "destinationId" : "13",
+        "description" : "Requests verifiable credential",
+        "defaultTags" : [ "Relationship" ]
+      }, {
+        "id" : "27",
+        "tags" : "Relationship",
+        "sourceId" : "2",
+        "destinationId" : "9",
+        "description" : "Requests verifiable credential",
+        "defaultTags" : [ "Relationship" ]
+      }, {
+        "id" : "28",
         "tags" : "Relationship",
         "sourceId" : "2",
         "destinationId" : "6",
-        "description" : "Requests digital credentials.",
+        "description" : "Requests verifiable credential",
         "defaultTags" : [ "Relationship" ]
       }, {
-        "id" : "11",
+        "id" : "29",
         "tags" : "Relationship",
         "sourceId" : "2",
-        "destinationId" : "8",
-        "description" : "Requests digital credentials.",
+        "destinationId" : "7",
+        "description" : "Complete assignments",
         "defaultTags" : [ "Relationship" ]
       } ],
       "location" : "Unspecified",
       "defaultTags" : [ "Element", "Person" ]
     }, {
-      "id" : "1",
+      "id" : "3",
       "tags" : "Element,Person",
-      "name" : "Site Admin",
-      "description" : "A person who is configuring the issuer provider",
+      "name" : "Verifier",
+      "description" : "External verifier, e.g., employer or university",
       "relationships" : [ {
-        "id" : "10",
+        "id" : "30",
         "tags" : "Relationship",
-        "sourceId" : "1",
-        "destinationId" : "6",
-        "description" : "Watches recordings and streams, comments upon incidents",
+        "sourceId" : "3",
+        "destinationId" : "9",
+        "description" : "Get Public Key for issuer verification",
         "defaultTags" : [ "Relationship" ]
       }, {
-        "id" : "9",
+        "id" : "31",
         "tags" : "Relationship",
-        "sourceId" : "1",
-        "destinationId" : "7",
-        "description" : "Watches recordings and streams, comments upon incidents",
+        "sourceId" : "3",
+        "destinationId" : "6",
+        "description" : "Get Public Key for issuer verification",
         "defaultTags" : [ "Relationship" ]
       } ],
       "location" : "Unspecified",
       "defaultTags" : [ "Element", "Person" ]
     } ],
     "softwareSystems" : [ {
-      "id" : "4",
-      "tags" : "Element,Software System",
-      "name" : "Digital Wallet",
-      "description" : "Any digital wallet compatible with VC",
-      "relationships" : [ {
-        "id" : "17",
-        "tags" : "Relationship",
-        "sourceId" : "4",
-        "destinationId" : "7",
-        "description" : "Requests VC",
-        "defaultTags" : [ "Relationship" ]
-      }, {
-        "id" : "18",
-        "tags" : "Relationship",
-        "sourceId" : "4",
-        "destinationId" : "6",
-        "description" : "Requests VC",
-        "defaultTags" : [ "Relationship" ]
-      } ],
-      "location" : "Unspecified",
-      "defaultTags" : [ "Element", "Software System" ]
-    }, {
-      "id" : "5",
-      "tags" : "Element,Software System,Python/JS",
-      "name" : "edx-platform",
-      "relationships" : [ {
-        "id" : "19",
-        "tags" : "Relationship",
-        "sourceId" : "5",
-        "destinationId" : "6",
-        "description" : "Sends completions data",
-        "defaultTags" : [ "Relationship" ]
-      } ],
-      "group" : "Open edX",
-      "location" : "Unspecified",
-      "defaultTags" : [ "Element", "Software System" ]
-    }, {
       "id" : "6",
       "tags" : "Element,Software System",
-      "name" : "edX Credentials",
-      "description" : "Open edX credentials service that stores all user completions (credentials)",
+      "name" : "Open edX",
       "relationships" : [ {
-        "id" : "16",
+        "id" : "40",
         "tags" : "Relationship",
         "sourceId" : "6",
         "destinationId" : "4",
         "description" : "Sends VC",
         "defaultTags" : [ "Relationship" ]
+      }, {
+        "id" : "43",
+        "tags" : "Relationship",
+        "sourceId" : "6",
+        "destinationId" : "5",
+        "description" : "REST API",
+        "defaultTags" : [ "Relationship" ]
       } ],
-      "group" : "Open edX",
       "location" : "Unspecified",
       "containers" : [ {
-        "id" : "7",
+        "id" : "9",
         "tags" : "Element,Container",
-        "name" : "Verified Credentials Issuer",
-        "description" : "Issues verified credentials that can be synchronized with digital credentials wallets.",
+        "name" : "edX Credentials",
+        "description" : "Open edX credentials service that stores all user completions (credentials)",
         "relationships" : [ {
-          "id" : "15",
+          "id" : "42",
           "tags" : "Relationship",
-          "sourceId" : "7",
+          "sourceId" : "9",
+          "destinationId" : "5",
+          "description" : "REST API",
+          "defaultTags" : [ "Relationship" ]
+        }, {
+          "id" : "39",
+          "tags" : "Relationship",
+          "sourceId" : "9",
           "destinationId" : "4",
           "description" : "Sends VC",
           "defaultTags" : [ "Relationship" ]
+        }, {
+          "id" : "32",
+          "tags" : "Relationship",
+          "sourceId" : "9",
+          "destinationId" : "7",
+          "description" : "Get completions data",
+          "defaultTags" : [ "Relationship" ]
+        }, {
+          "id" : "17",
+          "tags" : "Relationship",
+          "sourceId" : "9",
+          "destinationId" : "14",
+          "description" : "Reads from and writes to Credentials Database",
+          "technology" : "DajngoORM",
+          "defaultTags" : [ "Relationship" ]
+        }, {
+          "id" : "34",
+          "tags" : "Relationship",
+          "sourceId" : "9",
+          "destinationId" : "8",
+          "description" : "Sign Verifiable Credential",
+          "defaultTags" : [ "Relationship" ]
         } ],
-        "technology" : "A part of edX Credentials",
+        "components" : [ {
+          "id" : "10",
+          "tags" : "Element,Component",
+          "name" : "edX Credentials Core",
+          "description" : "Manages program and Course certificates",
+          "relationships" : [ {
+            "id" : "44",
+            "tags" : "Relationship",
+            "sourceId" : "10",
+            "destinationId" : "11",
+            "description" : "Certificate generation signal",
+            "defaultTags" : [ "Relationship" ]
+          }, {
+            "id" : "16",
+            "tags" : "Relationship",
+            "sourceId" : "10",
+            "destinationId" : "14",
+            "description" : "Reads from and writes to Credentials Database",
+            "technology" : "DajngoORM",
+            "defaultTags" : [ "Relationship" ]
+          } ],
+          "technology" : "Django",
+          "size" : 0,
+          "defaultTags" : [ "Element", "Component" ]
+        }, {
+          "id" : "13",
+          "tags" : "Element,Component",
+          "name" : "VC Issuer MFE",
+          "description" : "MFE for issuing verifiable credentials, is a part of existant MFE (credentials).",
+          "relationships" : [ {
+            "id" : "45",
+            "tags" : "Relationship",
+            "sourceId" : "13",
+            "destinationId" : "12",
+            "description" : "Get list of completions to issue VC",
+            "defaultTags" : [ "Relationship" ]
+          } ],
+          "technology" : "ReactJS",
+          "size" : 0,
+          "defaultTags" : [ "Element", "Component" ]
+        }, {
+          "id" : "12",
+          "tags" : "Element,Component",
+          "name" : "Verified Credentials Issuer",
+          "description" : "Issues verified credentials that can be synchronized with digital credentials wallets.",
+          "relationships" : [ {
+            "id" : "19",
+            "tags" : "Relationship",
+            "sourceId" : "12",
+            "destinationId" : "14",
+            "description" : "Reads from and writes to",
+            "technology" : "DajngoORM",
+            "defaultTags" : [ "Relationship" ]
+          }, {
+            "id" : "33",
+            "tags" : "Relationship",
+            "sourceId" : "12",
+            "destinationId" : "8",
+            "description" : "Sign Verifiable Credential",
+            "defaultTags" : [ "Relationship" ]
+          }, {
+            "id" : "38",
+            "tags" : "Relationship",
+            "sourceId" : "12",
+            "destinationId" : "4",
+            "description" : "Sends VC",
+            "defaultTags" : [ "Relationship" ]
+          } ],
+          "technology" : "Django",
+          "size" : 0,
+          "defaultTags" : [ "Element", "Component" ]
+        }, {
+          "id" : "11",
+          "tags" : "Element,Component",
+          "name" : "Digital Badges Issuer",
+          "description" : "Notifies external platforms about user's edX accomplishments.",
+          "relationships" : [ {
+            "id" : "18",
+            "tags" : "Relationship",
+            "sourceId" : "11",
+            "destinationId" : "14",
+            "description" : "Reads from and writes to",
+            "technology" : "DajngoORM",
+            "defaultTags" : [ "Relationship" ]
+          }, {
+            "id" : "41",
+            "tags" : "Relationship",
+            "sourceId" : "11",
+            "destinationId" : "5",
+            "description" : "REST API",
+            "defaultTags" : [ "Relationship" ]
+          } ],
+          "size" : 0,
+          "defaultTags" : [ "Element", "Component" ]
+        } ],
+        "defaultTags" : [ "Element", "Container" ]
+      }, {
+        "id" : "14",
+        "tags" : "Element,Container,Database",
+        "name" : "MySQL",
+        "description" : "RDBMS",
+        "defaultTags" : [ "Element", "Container" ]
+      }, {
+        "id" : "15",
+        "tags" : "Element,Container,Database",
+        "name" : "MongoDB",
         "defaultTags" : [ "Element", "Container" ]
       }, {
         "id" : "8",
         "tags" : "Element,Container",
-        "name" : "VC Issuer MFE",
-        "description" : "MFE for issuing verifiable credentials, is a part of existant MFE (credentials/profile).",
-        "technology" : "ReactJS",
+        "name" : "Sign&Verify",
+        "description" : "VC signing service",
+        "relationships" : [ {
+          "id" : "22",
+          "tags" : "Relationship",
+          "sourceId" : "8",
+          "destinationId" : "15",
+          "description" : "Reads from and writes to",
+          "technology" : "mongodb",
+          "defaultTags" : [ "Relationship" ]
+        } ],
+        "technology" : "JS API",
+        "defaultTags" : [ "Element", "Container" ]
+      }, {
+        "id" : "7",
+        "tags" : "Element,Container",
+        "name" : "edx-platform",
+        "relationships" : [ {
+          "id" : "21",
+          "tags" : "Relationship",
+          "sourceId" : "7",
+          "destinationId" : "15",
+          "description" : "Reads from and writes to",
+          "technology" : "Modulestore",
+          "defaultTags" : [ "Relationship" ]
+        }, {
+          "id" : "20",
+          "tags" : "Relationship",
+          "sourceId" : "7",
+          "destinationId" : "14",
+          "description" : "Reads from and writes to",
+          "technology" : "DajngoORM",
+          "defaultTags" : [ "Relationship" ]
+        } ],
+        "technology" : "Python/JS",
         "defaultTags" : [ "Element", "Container" ]
       } ],
+      "defaultTags" : [ "Element", "Software System" ]
+    }, {
+      "id" : "5",
+      "tags" : "Element,Software System",
+      "name" : "Digital Badge and certificate platform",
+      "description" : "Badgr, Accredible, Credly...",
+      "location" : "Unspecified",
+      "defaultTags" : [ "Element", "Software System" ]
+    }, {
+      "id" : "4",
+      "tags" : "Element,Software System",
+      "name" : "Digital Wallet",
+      "description" : "Any digital wallet compatible with VC",
+      "relationships" : [ {
+        "id" : "37",
+        "tags" : "Relationship",
+        "sourceId" : "4",
+        "destinationId" : "6",
+        "description" : "Requests VC",
+        "defaultTags" : [ "Relationship" ]
+      }, {
+        "id" : "36",
+        "tags" : "Relationship",
+        "sourceId" : "4",
+        "destinationId" : "9",
+        "description" : "Requests VC",
+        "defaultTags" : [ "Relationship" ]
+      }, {
+        "id" : "35",
+        "tags" : "Relationship",
+        "sourceId" : "4",
+        "destinationId" : "12",
+        "description" : "Requests VC",
+        "defaultTags" : [ "Relationship" ]
+      } ],
+      "location" : "Unspecified",
       "defaultTags" : [ "Element", "Software System" ]
     } ]
   },
@@ -162,101 +353,227 @@
       "key" : "SystemContext",
       "paperSize" : "A4_Landscape",
       "dimensions" : {
-        "width" : 2454,
-        "height" : 2170
+        "width" : 2470,
+        "height" : 2120
       },
       "enterpriseBoundaryVisible" : true,
       "elements" : [ {
         "id" : "1",
-        "x" : 500,
-        "y" : 105
+        "x" : 355,
+        "y" : 165
       }, {
         "id" : "2",
-        "x" : 2070,
-        "y" : 885
+        "x" : 1660,
+        "y" : 145
       }, {
         "id" : "3",
-        "x" : 1370,
-        "y" : 45
+        "x" : 975,
+        "y" : 130
       }, {
         "id" : "4",
-        "x" : 130,
-        "y" : 1065
+        "x" : 190,
+        "y" : 1580
       }, {
         "id" : "5",
-        "x" : 1027,
-        "y" : 1585
+        "x" : 1650,
+        "y" : 1550
       }, {
         "id" : "6",
-        "x" : 1000,
-        "y" : 1050
+        "x" : 950,
+        "y" : 965
       } ],
       "relationships" : [ {
-        "id" : "18",
+        "id" : "28"
+      }, {
+        "id" : "37",
         "vertices" : [ {
-          "x" : 792,
-          "y" : 1357
+          "x" : 695,
+          "y" : 1390
         } ]
       }, {
-        "id" : "16",
+        "id" : "25"
+      }, {
+        "id" : "40",
         "vertices" : [ {
-          "x" : 787,
-          "y" : 1057
+          "x" : 905,
+          "y" : 1540
         } ]
       }, {
-        "id" : "14"
+        "id" : "43"
       }, {
-        "id" : "12"
-      }, {
-        "id" : "10"
-      }, {
-        "id" : "19"
+        "id" : "31"
       } ]
     } ],
     "containerViews" : [ {
       "softwareSystemId" : "6",
-      "key" : "Credentials",
-      "paperSize" : "A4_Portrait",
+      "key" : "OpenedX",
+      "paperSize" : "A3_Landscape",
       "dimensions" : {
-        "width" : 2116,
-        "height" : 2116
+        "width" : 2779,
+        "height" : 2720
       },
       "externalSoftwareSystemBoundariesVisible" : true,
       "elements" : [ {
         "id" : "1",
-        "x" : 712,
-        "y" : 208
+        "x" : 905,
+        "y" : 135
       }, {
         "id" : "2",
-        "x" : 699,
-        "y" : 1508
+        "x" : 2295,
+        "y" : 365
       }, {
         "id" : "3",
-        "x" : 1412,
-        "y" : 208
+        "x" : 1575,
+        "y" : 95
+      }, {
+        "id" : "14",
+        "x" : 1410,
+        "y" : 1740
       }, {
         "id" : "4",
-        "x" : 1399,
-        "y" : 1558
+        "x" : 35,
+        "y" : 1265
+      }, {
+        "id" : "15",
+        "x" : 1415,
+        "y" : 2115
+      }, {
+        "id" : "5",
+        "x" : 235,
+        "y" : 645
       }, {
         "id" : "7",
-        "x" : 1037,
-        "y" : 908
+        "x" : 2160,
+        "y" : 2110
       }, {
         "id" : "8",
-        "x" : 287,
-        "y" : 908
+        "x" : 595,
+        "y" : 2090
+      }, {
+        "id" : "9",
+        "x" : 1425,
+        "y" : 1205
       } ],
       "relationships" : [ {
+        "id" : "42"
+      }, {
+        "id" : "21"
+      }, {
+        "id" : "32"
+      }, {
+        "id" : "20"
+      }, {
+        "id" : "30"
+      }, {
+        "id" : "29"
+      }, {
         "id" : "17"
       }, {
-        "id" : "15"
+        "id" : "27"
       }, {
-        "id" : "13"
+        "id" : "36",
+        "vertices" : [ {
+          "x" : 910,
+          "y" : 1280
+        } ]
       }, {
-        "id" : "11"
+        "id" : "24"
       }, {
-        "id" : "9"
+        "id" : "34"
+      }, {
+        "id" : "22"
+      }, {
+        "id" : "39",
+        "vertices" : [ {
+          "x" : 910,
+          "y" : 1490
+        } ]
+      } ]
+    } ],
+    "componentViews" : [ {
+      "key" : "Credentials",
+      "paperSize" : "A3_Landscape",
+      "dimensions" : {
+        "width" : 3675,
+        "height" : 2716
+      },
+      "animations" : [ {
+        "order" : 1,
+        "elements" : [ "8" ]
+      } ],
+      "containerId" : "9",
+      "externalContainerBoundariesVisible" : true,
+      "elements" : [ {
+        "id" : "11",
+        "x" : 2545,
+        "y" : 1815
+      }, {
+        "id" : "1",
+        "x" : 2370,
+        "y" : 105
+      }, {
+        "id" : "12",
+        "x" : 1135,
+        "y" : 1405
+      }, {
+        "id" : "13",
+        "x" : 1485,
+        "y" : 880
+      }, {
+        "id" : "2",
+        "x" : 1500,
+        "y" : 100
+      }, {
+        "id" : "14",
+        "x" : 1715,
+        "y" : 1880
+      }, {
+        "id" : "4",
+        "x" : 165,
+        "y" : 1915
+      }, {
+        "id" : "5",
+        "x" : 2550,
+        "y" : 2395
+      }, {
+        "id" : "8",
+        "x" : 1130,
+        "y" : 2345
+      }, {
+        "id" : "10",
+        "x" : 2365,
+        "y" : 875
+      } ],
+      "relationships" : [ {
+        "id" : "18"
+      }, {
+        "id" : "16"
+      }, {
+        "id" : "26"
+      }, {
+        "id" : "41"
+      }, {
+        "id" : "35",
+        "vertices" : [ {
+          "x" : 765,
+          "y" : 1695
+        } ]
+      }, {
+        "id" : "23"
+      }, {
+        "id" : "33"
+      }, {
+        "id" : "44"
+      }, {
+        "id" : "45"
+      }, {
+        "id" : "38",
+        "vertices" : [ {
+          "x" : 935,
+          "y" : 1920
+        } ]
+      }, {
+        "id" : "19"
       } ]
     } ],
     "configuration" : {
@@ -309,7 +626,6 @@
           "opacity" : 25
         } ]
       },
-      "themes" : [ "https://static.structurizr.com/themes/amazon-web-services-2022.04.30/theme.json" ],
       "terminology" : { },
       "lastSavedView" : "SystemContext"
     }
